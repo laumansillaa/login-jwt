@@ -1,0 +1,15 @@
+.form {
+    background-color: brown;
+    width: 50%;
+    height: 200px;
+
+}
+.formRegister {
+    padding: 0;
+    height: 100px;
+    /* align-items: center; */
+    /* justify-content: center; */
+    border-width: 5px;
+    border-style: solid;
+    border-color: black ;
+}
